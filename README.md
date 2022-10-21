@@ -2,7 +2,7 @@
 
 ## Keno simulator
 
-There are 4 common strategies in Keno. This script compares these strategies to see if one of them are than others.
+There are 4 common strategies in Keno.
 
 * Picking the same sequence of numbers at each play
 * Randomly picking numbers
